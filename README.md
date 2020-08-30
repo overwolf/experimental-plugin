@@ -1,6 +1,6 @@
 ### HAGS Overview
 
-The WINDOWS 10 HARDWARE-ACCELERATED GPU SCHEDULING (HAGS) feature is currently supported on Windows 2004 and Nvidia's latest GPU driver (451.49).  
+The WINDOWS 10 HARDWARE-ACCELERATED GPU SCHEDULING (HAGS) feature is currently supported on Windows 2004 and Nvidia's latest GPU driver (451.49). 
 When set to On, it might cause captured videos to be laggy/choppy.
 
 This is a quick experimental plugin with a simple way of detecting if it is on or not.
@@ -9,7 +9,7 @@ This is a quick experimental plugin with a simple way of detecting if it is on o
 
 1. Download this sample app and load it as an unpacked extension.
 2. The app contains a single-window without any controls. Just open the dev tools for this window.
-3. The plugin will print to the console `isHAGSEnabled = false` or true. 
+3. The plugin will print to the console `isHAGSEnabled = false/true`. 
 
 ### Check if HAGS enabled in your app
 
